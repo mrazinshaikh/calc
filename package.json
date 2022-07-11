@@ -3,6 +3,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "start": "nuxt start",
     "devs": "nuxi dev --host localhost --https --port 3000",
     "generate": "nuxt generate",
     "preview": "nuxt preview"
